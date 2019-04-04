@@ -10,3 +10,16 @@
 
 ---
 <p align="center">忙着考研..., 所以把OneNote的笔记重新整理一遍放上来可能需要一些时间就先以超慢的速度更新新课</p>
+
+<h2 align="center">笔记</h2>
+
+| 章节 | 幻灯片 | 视频 | 笔记 | 完成时间 | 完成人 |
+| --- | --- | --- | --- | --- | --- |
+| Overview | [ppt](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/introduction%20(v8).pptx) | [video](https://www.youtube.com/watch?v=XnyM3-xtxHs) | - | - | - |
+| Adversarial Attack |
+
+<h2 align="center">作业</h2>
+
+| 章节 | 幻灯片 | 代码 | 分析 | 完成时间 | 完成人 |
+| --- | --- | --- | --- | --- | --- |
+HW1: regression |
