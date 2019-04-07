@@ -15,8 +15,8 @@
 
 | 章节 | 幻灯片 | 视频 | 笔记 | 完成时间 | 完成人 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Overview | [ppt](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/introduction%20(v8).pptx) | [video](https://www.youtube.com/watch?v=XnyM3-xtxHs) | - | - | - |
-| Adversarial Attack |
+| Overview | [PPT](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/introduction%20(v8).pptx) | [Video](https://www.youtube.com/watch?v=XnyM3-xtxHs) | - | - | - |
+| Adversarial Attack | [PPT](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/Attack%20(v8).pptx) | [Video](https://www.youtube.com/watch?v=NI6yb0WgMBM&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4&index=10&t=0s) | [Note](http://jun369.me/2019/04/05/Deep%20Learning/Machine%20Learning%20Course/Adversarial-Attack/) | 2019.4.5 | [@ETCartman](https://github.com/ETCartman)
 
 <h2 align="center">作业</h2>
 
